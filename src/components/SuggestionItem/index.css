@@ -1,0 +1,19 @@
+.suggestion-item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+  list-style-type: none;
+}
+
+.suggestion-para {
+  font-size: 17px;
+  font-weight: 400;
+  color: #64748b;
+}
+
+.arrow {
+  color: #475569;
+  width: 3vw;
+  cursor: pointer;
+}
